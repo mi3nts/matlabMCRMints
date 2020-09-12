@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<productAdditionalComps>
+   <dependsOn>
+      <component>
+         <name>importCarGPS</name>
+         <locale/>
+         <platformList>
+            <platform>glnxa64</platform>
+         </platformList>
+         <version>1.0</version>
+      </component>
+   </dependsOn>
+   <isControllingProduct>true</isControllingProduct>
+   <platform>glnxa64</platform>
+   <productName>importCarGPS</productName>
+   <productNumber>5000</productNumber>
+   <productBaseCode>importCarGPS</productBaseCode>
+   <productVersion>1.0</productVersion>
+   <releaseFamily>R2019b</releaseFamily>
+   <releaseDescription>R2019b</releaseDescription>
+</productAdditionalComps>
