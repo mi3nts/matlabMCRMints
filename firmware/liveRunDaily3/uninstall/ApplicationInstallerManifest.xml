@@ -3,7 +3,7 @@
    <DefaultInstallationDirectory>/usr/UTD/liveRunDaily/</DefaultInstallationDirectory>
    <ApplicationName>liveRunDaily</ApplicationName>
    <ExecutableName>application/liveRunDaily.exe</ExecutableName>
-   <GUID>9adccc37-57e1-4d20-84cd-5e89acec30ea</GUID>
+   <GUID>f4d9f505-7405-4b95-b626-61527f9c5f83</GUID>
    <ApplicationIcon>default_icon_48.png</ApplicationIcon>
    <Logo>default_logo.png</Logo>
    <Version>1.0</Version>
