@@ -3,7 +3,7 @@
    <DefaultInstallationDirectory>/usr/UTD/liveRunDynamic/</DefaultInstallationDirectory>
    <ApplicationName>liveRunDynamic</ApplicationName>
    <ExecutableName>application/liveRunDynamic.exe</ExecutableName>
-   <GUID>df3ae787-b507-44b4-bff9-58bc34c22812</GUID>
+   <GUID>e929d3ae-d808-42e3-8cde-be45e59c9bf8</GUID>
    <ApplicationIcon>default_icon_48.png</ApplicationIcon>
    <Logo>default_logo.png</Logo>
    <Version>1.0</Version>
