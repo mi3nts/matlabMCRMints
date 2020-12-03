@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationInstallerManifest>
+   <DefaultInstallationDirectory>/usr/UTD/livePlotter/</DefaultInstallationDirectory>
+   <ApplicationName>livePlotter</ApplicationName>
+   <ExecutableName>application/livePlotter.exe</ExecutableName>
+   <GUID>95155e3d-86e8-4f57-a0f3-d5e19248cf7e</GUID>
+   <ApplicationIcon>default_icon_48.png</ApplicationIcon>
+   <Logo>default_logo.png</Logo>
+   <Version>1.0</Version>
+   <InstallationNotes>In the following directions, replace MR/v99 by the directory on the target machine where MATLAB is installed, or MR by the directory where the MATLAB Runtime is installed.
+
+(1) Set the environment variable XAPPLRESDIR to this value:
+
+MR/v99/X11/app-defaults
+
+
+(2) If the environment variable LD_LIBRARY_PATH is undefined, set it to the following:
+
+MR/v99/runtime/glnxa64:MR/v99/bin/glnxa64:MR/v99/sys/os/glnxa64:MR/v99/sys/opengl/lib/glnxa64
+
+If it is defined, set it to the following:
+
+${LD_LIBRARY_PATH}:MR/v99/runtime/glnxa64:MR/v99/bin/glnxa64:MR/v99/sys/os/glnxa64:MR/v99/sys/opengl/lib/glnxa64
+</InstallationNotes>
+   <AuthorOrganization>UTD</AuthorOrganization>
+   <WelcomePanelText>livePlotter 1.0
+Lakitha Wijeratne
+lhw150030@utdallas.edu</WelcomePanelText>
+   <MCRProducts>
+      <MCRProduct>
+         <ExternalProductIdentifier>35000</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35010</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35103</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35104</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35106</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35108</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35112</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35117</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35119</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35124</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35130</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35135</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35160</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35180</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35191</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35196</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35251</ExternalProductIdentifier>
+      </MCRProduct>
+      <MCRProduct>
+         <ExternalProductIdentifier>35274</ExternalProductIdentifier>
+      </MCRProduct>
+   </MCRProducts>
+</ApplicationInstallerManifest>
